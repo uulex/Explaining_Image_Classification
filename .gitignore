@@ -2,3 +2,4 @@ D-Fire
 classification_dataset
 .env
 best_model.pth
+fire_detection/best_model.pth
