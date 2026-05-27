@@ -1,7 +1,14 @@
+# Datasets
 D-Fire
 classification_dataset
-.env
-best_model.pth
-fire_detection/best_model.pth
 .new_fire_ds
-fire_detection/best_model_new.pth*.pth
+
+# Environment
+.env
+.venv
+
+# Models
+*.pth
+
+# Mac
+.DS_Store
