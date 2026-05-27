@@ -4,4 +4,4 @@ classification_dataset
 best_model.pth
 fire_detection/best_model.pth
 .new_fire_ds
-fire_detection/best_model_new.pth
+fire_detection/best_model_new.pth*.pth
