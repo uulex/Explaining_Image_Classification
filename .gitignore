@@ -8,7 +8,7 @@ classification_dataset
 .venv
 
 # Models
-*.pth
+#*.pth
 
 # Mac
 .DS_Store
